@@ -32,8 +32,9 @@ take the access_token from the response.
 and now you'll have all the things you need.
 
 
-then the cool part, you can have your very own smtp online with zeit.
-simply follow this 3 steps:
+then the cool part, 
+### you can have your very own smtp online with zeit.
+    simply follow this 3 steps:
     1. npm i -g now
     2. go to the file directory
     3. now "or" /usr/local/Cellar/node/6.3.1/bin/now
